@@ -1,0 +1,4 @@
+1. (DONE) MatchXXX functions in class Word should be improved
+2. get instruction name by instruction code
+3. MatchFloatValue() in class Word should validate the arguments
+4. implement Debug mode, and debugging by steps
